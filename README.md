@@ -1,6 +1,6 @@
 # FrameworkTD1
 
-TD  - HTML and CSS
+TD  - HTML et CSS
 
 - Structure crée avec Grid
 - Contenue strucutré avec Flex
